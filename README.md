@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Mateus+%F0%9F%91%8B)](https://git.io/typing-svg)</h1> 
 <h2 align="left">Sou um desenvolvedor, com experiência em criação de sistemas e aplicações. Desenvolvo jogos independentes, atuando na programação, design e narrativa.</h2> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etamus&label=Visitantes&color=000000&style=flat" alt="etamus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etamus&label=Visitantes&color=000)000&style=flat" alt="etamus" /> </p>
 
 - 🔭 Estou atualmente trabalhando no [The Body Snatcher](https://github.com/Etamus/The-Inhabited)
 
