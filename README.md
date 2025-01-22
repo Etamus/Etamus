@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Mateus</h1>
 <h3 align="left">Sou um desenvolvedor, com experiência em criação de sistemas e aplicações. Desenvolvo jogos independentes, atuando na programação, design e narrativa.</h3> 
-<h3 align="left">Nas horas vagas, crio artes digitais e conteúdo audiovisual!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etamus&label=Visitantes&color=000000&style=flat" alt="etamus" /> </p>
 
