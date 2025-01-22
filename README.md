@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=120&duration=2000&pause=2000&width=2000&height=200&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Mateus!)](https://git.io/typing-svg)
 <h2 align="left">Sou um desenvolvedor, com experiência em criação de sistemas e aplicações.</h2> 
-<h3 align="left">● Desenvolvo jogos independentes, atuando na programação, design e narrativa.</h3>
-<h3 align="left">● Meus hobbies são design gráfico e produção de conteúdo audiovisual.</h3>
+<h3 align="left">- Desenvolvo jogos independentes, atuando na programação, design e narrativa.</h3>
+<h3 align="left">- Meus hobbies são design gráfico e produção de conteúdo audiovisual.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etamus&label=Visitantes&color=000000&style=flat" alt="etamus" /> </p>
