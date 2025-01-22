@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Mateus</h1>
 <h3 align="center">Um desenvolvedor Full-Stack</h3>
 
-- 🔭 Eu estou atualmente trabalhando no [APP-Escala-Motorista](https://github.com/Jose-Adelson/APP-Escala-Motorista)
+- 🔭 Eu estou atualmente trabalhando no [The Inabithed](https://github.com/Etamus/The-Inhabited)
 
-- 👯 Estou em colaboração com o [José Adelson](https://github.com/Jose-Adelson)
+- 👯 Faço parte da organização [Fixedge](https://github.com/Fixedge)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Etamus?tab=repositories](https://github.com/Etamus?tab=repositories)
 
