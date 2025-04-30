@@ -3,7 +3,9 @@
 <h3 align="left">► Também desenvolvo jogos independentes, atuando na programação, design e narrativa.</h3><h3 align="left">► Meus hobbies são design gráfico e produção de conteúdo audiovisual.</h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etamus&label=Visitantes&color=000000&style=flat" alt="etamus" /> </p>
+
 
 - 🔭 Estou atualmente trabalhando no [The Body Snatcher](https://github.com/Etamus/The-Inhabited)
 
