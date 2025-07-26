@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor de jogos independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo tech com paixão, focando principalmente em **Python**, **Machine Learning** e **Inteligência Artificial**.
 
-Atualmente trabalho na **[Yuma AI](https://github.com/)**, onde estou desenvolvendo uma assistente com personalidade e voz. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
+Atualmente trabalho na **[Yuma AI](https://github.com/Etamus/Yuma)**, onde estou desenvolvendo uma assistente com personalidade e voz. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
 ---
 
