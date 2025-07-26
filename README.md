@@ -1,29 +1,70 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=120&duration=2000&pause=2000&width=2000&height=200&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Mateus!)](https://git.io/typing-svg)
-<h2 align="left">Sou um desenvolvedor com experiência em criação de sistemas e aplicações.</h2> 
-<h3 align="left">► Também desenvolvo jogos independentes, atuando na programação, design e narrativa.</h3><h3 align="left">► Meus hobbies são design gráfico e produção de conteúdo audiovisual.</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=200&section=header&text=Mateus%20Lopes&fontSize=40&fontColor=ffffff" />
+</h1>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=etamus&label=Visitantes&color=000000&style=flat" alt="etamus" /> </p>
-
-
-- 🔭 Estou atualmente trabalhando no [The Body Snatcher](https://github.com/Etamus/The-Inhabited)
-
-- 👯 Faço parte da organização [Fixedge](https://github.com/Fixedge)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [Repositórios](https://github.com/Etamus?tab=repositories)
-
-- 📫 Como entrar em contato comigo **mlopes.corporativo@gmail.com**
-
-<h3 align="left">Redes Sociais:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@monitordetubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@monitordetubo" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Jogos+%F0%9F%8E%AE;Designer+Gr%C3%A1fico+%F0%9F%96%8C%EF%B8%8F;Apaixonado+por+IA+e+ML+%F0%9F%96%A5" />
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etamus&show_icons=true&theme=dark&locale=en&layout=compact" alt="etamus" /></p>
+## 💜 Sobre mim
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etamus&show_icons=true&theme=dark&locale=en" alt="etamus" /></p>
+Sou um desenvolvedor de jogos independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo tech com paixão, focando principalmente em **Python**, **Machine Learning** e **Inteligência Artificial**.
 
+Atualmente trabalho na **[Yuma AI](https://github.com/)**, onde estou desenvolvendo uma assistente com personalidade e voz. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
+
+Seja com código, arte ou IA, minha missão é dar vida a ideias criativas!
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,vba,html,css,unity,unreal,godot,photoshop,blender,gcloud" />
+</div>
+
+---
+
+## 🚀 Projetos em andamento
+
+- 🧠 **Yuma AI** — Assistente pessoal com integração de voz, sarcasmo e personalidade.
+- 🕹️ **Jogos Independentes** — protótipos experimentais e projetos em engines como Unity, Unreal e Godot.
+- 🤖 **Soluções com IA** — testes com redes neurais e automações inteligentes.
+
+---
+
+## 🌐 Contato
+
+- 📧 Email: **mlopes.corporativo@gmail.com**
+- 🔗 LinkedIn (em breve...)
+- 🏢 Membro da organização: [**Fixedge**](https://github.com/Fixedge)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusLopes&show_icons=true&theme=purple&hide_border=true&title_color=bf69ff&icon_color=bf69ff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLopes&layout=compact&theme=purple&hide_border=true&title_color=bf69ff"/>
+</div>
+
+---
+
+## 🎨 Extras visuais
+
+> Sim, sou daqueles que acha que o visual também importa 😎
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MateusLopes&theme=gruvbox&no-frame=true&column=7&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MateusLopes&bg_color=0f0f0f&color=bf69ff&line=8000ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=120&section=footer"/>
+</p>
