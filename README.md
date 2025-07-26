@@ -34,7 +34,7 @@ Atualmente trabalho na **[Yuma AI](https://github.com/)**, onde estou desenvolve
 ## 🌐 Contato
 
 - 📧 Email: **mlopes.corporativo@gmail.com**
-- 🔗 LinkedIn **https://www.linkedin.com/in/mateuslopesd**
+- 🔗 LinkedIn [**Mateus Lopes**](https://www.linkedin.com/in/mateuslopesd)
 - 🏢 Membro da organização: [**Fixedge**](https://github.com/Fixedge)
 
 ---
@@ -53,10 +53,6 @@ Atualmente trabalho na **[Yuma AI](https://github.com/)**, onde estou desenvolve
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MateusLopes&theme=gruvbox&no-frame=true&column=7&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MateusLopes&bg_color=0f0f0f&color=bf69ff&line=8000ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
