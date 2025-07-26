@@ -14,8 +14,6 @@ Sou um desenvolvedor de jogos independente e designer gráfico, atuando tanto po
 
 Atualmente trabalho na **[Yuma AI](https://github.com/)**, onde estou desenvolvendo uma assistente com personalidade e voz. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
-Seja com código, arte ou IA, minha missão é dar vida a ideias criativas!
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -28,16 +26,15 @@ Seja com código, arte ou IA, minha missão é dar vida a ideias criativas!
 
 ## 🚀 Projetos em andamento
 
-- 🧠 **Yuma AI** — Assistente pessoal com integração de voz, sarcasmo e personalidade.
-- 🕹️ **Jogos Independentes** — protótipos experimentais e projetos em engines como Unity, Unreal e Godot.
-- 🤖 **Soluções com IA** — testes com redes neurais e automações inteligentes.
+- 🧠 **Yuma AI** — Assistente pessoal com integração de voz e personalidade.
+- 🕹️ **The Inhabited** — Protótipo experimental feito na Godot 4.3 para uma Gamejam.
 
 ---
 
 ## 🌐 Contato
 
 - 📧 Email: **mlopes.corporativo@gmail.com**
-- 🔗 LinkedIn (em breve...)
+- 🔗 LinkedIn **https://www.linkedin.com/in/mateuslopesd**
 - 🏢 Membro da organização: [**Fixedge**](https://github.com/Fixedge)
 
 ---
@@ -53,7 +50,6 @@ Seja com código, arte ou IA, minha missão é dar vida a ideias criativas!
 
 ## 🎨 Extras visuais
 
-> Sim, sou daqueles que acha que o visual também importa 😎
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MateusLopes&theme=gruvbox&no-frame=true&column=7&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Commits" />
