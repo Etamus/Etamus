@@ -27,13 +27,13 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 ## 🚀 Projetos em Andamento
 
 - 🧠 **Yuma** — Assistente pessoal com integração de voz e personalidade.
-- 🕹️ **The Inhabited** — Protótipo experimental feito na Godot 4.3 para uma Gamejam.
+- 🕹️ **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Gamejam.
 
 ---
 
 ## 🎙️ Dublagens Realizadas
 
-- 🎮 [**MiSide PT-BR**](https://www.nexusmods.com/miside/mods/551) — Mod de dublagem oficial para o jogo *MiSide*
+- 🎮 [**MiSide PT-BR**](https://www.nexusmods.com/miside/mods/551) — Mod de dublagem não oficial para o jogo *MiSide*.
 
   **Características do projeto:**
   - Dublagem completa do protagonista.
