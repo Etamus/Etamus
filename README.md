@@ -52,7 +52,7 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusLopes&theme=gruvbox&no-frame=true&column=7&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Etamus&theme=gruvbox&no-frame=true&column=7&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Commits" />
 </p>
 
 ---
