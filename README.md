@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo tech com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
 
-Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou desenvolvendo uma assistente com personalidade e voz. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
+Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou desenvolvendo uma inteligência artificial com interação por voz e personas adaptáveis. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
 ---
 
@@ -26,8 +26,9 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 
 ## 🚀 Projetos em Andamento
 
-- 🧠 **Yuma** — Assistente pessoal com integração de voz e personalidade.
-- 🕹️ **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Gamejam.
+- **Yuma** — Assistente pessoal com interação por voz e personas adaptáveis.
+- **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização via fine-tuning.
+- **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Gamejam.
 
 ---
 
