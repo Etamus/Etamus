@@ -43,7 +43,7 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=purple&hide_border=true&title_color=bf69ff&icon_color=bf69ff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusLopes&layout=compact&theme=purple&hide_border=true&title_color=bf69ff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etamus&layout=compact&theme=purple&hide_border=true&title_color=bf69ff"/>
 </div>
 
 ---
