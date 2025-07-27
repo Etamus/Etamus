@@ -10,7 +10,7 @@
 
 ## 💜 Sobre mim
 
-Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo tech com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
+Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
 
 Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma inteligência artificial com interação por voz e personas adaptáveis. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
