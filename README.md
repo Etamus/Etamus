@@ -31,6 +31,17 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 
 ---
 
+## 🎙️ Projetos de Dublagem
+
+- 🎮 **MiSide Dub PT-BR** — Mod de dublagem oficial para o jogo *MiSide*
+
+  **Características do projeto:**
+  - Dublagem completa do protagonista.
+  - Interpretação adaptada ao tom da história.
+  - Foco em acessibilidade e imersão para jogadores que preferem o idioma em português.
+    
+---    
+
 ## 🌐 Contato
 
 - 📧 Email: **mlopes.corporativo@gmail.com**
