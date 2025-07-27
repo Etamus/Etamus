@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Apaixonado+por+IA+e+ML+%F0%9F%96%A5%EF%B8%8F;Designer+Gr%C3%A1fico+%F0%9F%96%8C%EF%B8%8F;Desenvolvedor+de+Jogos+%F0%9F%8E%AE;Dublador+%F0%9F%8E%99%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Apaixonado+por+IA+e+ML+%F0%9F%96%B2%EF%B8%8F;Designer+Gr%C3%A1fico+%F0%9F%96%8C%EF%B8%8F;Desenvolvedor+de+Jogos+%F0%9F%8E%AE;Dublador+%F0%9F%8E%99%EF%B8%8F" />
 </p>
 
 ---
