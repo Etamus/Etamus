@@ -31,9 +31,9 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 
 ---
 
-## 🎙️ Projetos de Dublagem
+## 🎙️ Dublagens Realizadas
 
-- 🎮 **MiSide Dub PT-BR** — Mod de dublagem oficial para o jogo *MiSide*
+- 🎮 [**MiSide PT-BR**](https://www.nexusmods.com/miside/mods/551) — Mod de dublagem oficial para o jogo *MiSide*
 
   **Características do projeto:**
   - Dublagem completa do protagonista.
