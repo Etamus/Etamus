@@ -8,7 +8,7 @@
 
 ---
 
-## 💜 Sobre mim
+## 🗣️ Sobre mim
 
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
 
