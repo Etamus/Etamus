@@ -10,7 +10,7 @@
 
 ## 💜 Sobre mim
 
-Sou um desenvolvedor de jogos independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo tech com paixão, focando principalmente em **Python**, **Machine Learning** e **Inteligência Artificial**.
+Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo tech com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
 
 Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou desenvolvendo uma assistente com personalidade e voz. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
@@ -24,7 +24,7 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 
 ---
 
-## 🚀 Projetos em andamento
+## 🚀 Projetos em Andamento
 
 - 🧠 **Yuma** — Assistente pessoal com integração de voz e personalidade.
 - 🕹️ **The Inhabited** — Protótipo experimental feito na Godot 4.3 para uma Gamejam.
@@ -36,7 +36,6 @@ Atualmente trabalho na **[Yuma](https://github.com/Etamus/Yuma)**, onde estou de
 - 📧 Email: **mlopes.corporativo@gmail.com**
 - 🔗 LinkedIn [**Mateus Lopes**](https://www.linkedin.com/in/mateuslopesd)
 - 🏢 Membro da organização: [**Fixedge**](https://github.com/Fixedge)
-
 ---
 
 ## 📊 Estatísticas
