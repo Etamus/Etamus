@@ -26,9 +26,9 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 ## 🚀 Projetos em Andamento
 
-- **Yuma** — Assistente pessoal com interação por voz e personas adaptáveis.
 - **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização via fine-tuning.
-- **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Gamejam.
+- **Yuma** — Assistente pessoal com interação por voz e personas adaptáveis.
+- **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Game Jam.
 
 ---
 
