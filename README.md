@@ -8,7 +8,7 @@
 
 ---
 
-## 🗣️ Sobre mim
+## Sobre mim
 
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
 
@@ -16,7 +16,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,vba,html,css,unity,unreal,godot,photoshop,blender,gcloud" />
@@ -24,7 +24,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 ---
 
-## 🚀 Projetos em Andamento
+## Projetos em Andamento
 
 - **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização via fine-tuning.
 - **Yuma** — Assistente pessoal com interação por voz e personas adaptáveis.
@@ -43,14 +43,14 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
     
 ---    
 
-## 🌐 Contato
+## Contato
 
 - 📧 Email: **mlopes.corporativo@gmail.com**
 - 🔗 LinkedIn [**Mateus Lopes**](https://www.linkedin.com/in/mateuslopesd)
 - 🏢 Membro da organização: [**Fixedge**](https://github.com/Fixedge)
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=purple&hide_border=true&title_color=bf69ff&icon_color=bf69ff"/>
@@ -59,7 +59,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 ---
 
-## 🎨 Extras visuais
+## Extras visuais
 
 
 <p align="center">
