@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Apaixonado+por+IA+e+ML+%F0%9F%96%B2%EF%B8%8F;Designer+Gr%C3%A1fico+%F0%9F%96%8C%EF%B8%8F;Desenvolvedor+de+Jogos+%F0%9F%8E%AE;Dublador+%F0%9F%8E%99%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDA713&center=true&vCenter=true&width=435&lines=AI+ENGINEER;GRAPHIC+DESIGNER;GAME+DEVELOPER;AMATEUR+VOICE+ACTOR" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Etamus&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Etamus&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
 ---
 
 <p align="center">
