@@ -32,7 +32,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 ---
 
-## 🎙️ Dublagens Realizadas
+## Dublagens Realizadas
 
 - 🎮 [**MiSide PT-BR**](https://www.nexusmods.com/miside/mods/551) — Mod de dublagem não oficial para o jogo *MiSide*.
 
@@ -63,7 +63,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Etamus&theme=gruvbox&no-frame=true&column=7&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Commits" />
+  [![GitHub Streak](https://streak-stats.demolab.com/Etamus=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 ---
