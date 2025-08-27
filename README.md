@@ -53,8 +53,8 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 ## Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=purple&hide_border=true&title_color=bf69ff&icon_color=bf69ff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etamus&layout=compact&theme=purple&hide_border=true&title_color=bf69ff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=dark&hide_border=true&title_color=bf69ff&icon_color=bf69ff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etamus&layout=compact&theme=dark&hide_border=true&title_color=bf69ff"/>
 </div>
 
 ---
@@ -63,7 +63,7 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/Etamus=DenverCoder1)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Etamus&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
 
 ---
