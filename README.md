@@ -53,8 +53,8 @@ Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma
 ## Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=dark&hide_border=true&title_color=bf69ff&icon_color=bf69ff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etamus&layout=compact&theme=dark&hide_border=true&title_color=bf69ff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=dark&hide_border=true&title_color=f09a07&icon_color=f09a07"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etamus&layout=compact&theme=dark&hide_border=true&title_color=f09a07"/>
 </div>
 
 ---
