@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=8000FF&text=MATEUS%20LOPES&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Software%20Developer&descAlignY=45&reversal=false&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=cf8f06&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
 
-Atualmente estou desenvolvendo a **[Yuma](https://github.com/Etamus/Yuma)**, uma inteligência artificial com interação por voz e personas adaptáveis. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
+Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma inteligência artificial projetada para diálogos naturais e interações contextuais profundas. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
 ---
 
