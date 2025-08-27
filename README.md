@@ -26,8 +26,8 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ## Projetos em Andamento
 
-- **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização via fine-tuning.
-- **Yuma** — Assistente pessoal com interação por voz e personas adaptáveis.
+- **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização.
+- **Returns Portal** — Portal de Devolução desenvolvido para otimizar o processo logístico de retorno de peças.
 - **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Game Jam.
 
 ---
