@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDA713&center=true&vCenter=true&width=435&lines=AI+ENGINEER;GRAPHIC+DESIGNER;GAME+DEVELOPER;AMATEUR+VOICE+ACTOR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=AI+ENGINEER;GRAPHIC+DESIGNER;GAME+DEVELOPER;AMATEUR+VOICE+ACTOR" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,5 +69,5 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EDA713&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
 </p>
