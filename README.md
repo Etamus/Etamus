@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5203fc&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fcb212&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5203fc&center=true&vCenter=true&width=435&lines=AI+ENGINEER;GRAPHIC+DESIGNER;GAME+DEVELOPER;AMATEUR+VOICE+ACTOR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=fcb212&center=true&vCenter=true&width=435&lines=AI+ENGINEER;GRAPHIC+DESIGNER;GAME+DEVELOPER;AMATEUR+VOICE+ACTOR" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,5 +69,5 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5203fc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fcb212&height=120&section=footer"/>
 </p>
