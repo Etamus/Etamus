@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFD700&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=16e0e0&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
 </h1>
 
 <p align="center">
@@ -69,5 +69,5 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16e0e0&height=120&section=footer"/>
 </p>
