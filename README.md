@@ -26,9 +26,9 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ## Projetos em Andamento
 
+- **Hub Spare Parts** — Servidor web projetado como um Hub para orquestrar e acessar diversas ferramentas de automação e Business Intelligence.
 - **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização.
 - **Returns Portal** — Portal de Devolução desenvolvido para otimizar o processo logístico de retorno de peças.
-- **The Inhabited** — Protótipo de jogo feito na Godot 4.3 para uma Game Jam.
 
 ---
 
