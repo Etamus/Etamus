@@ -4,7 +4,8 @@
 
 ---
 
-## Sobre mim
+<h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/1bc0814b-f7fd-41db-81b0-014edb39c294" />
+</h2>
 
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Inteligência Artificial**.
 
@@ -12,7 +13,8 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ---
 
-## Tecnologias e Ferramentas
+<h2 align="center"><img width="450" height="450" alt="tecefer" src="https://github.com/user-attachments/assets/d64e8a9d-293e-4241-ba0b-7f2bb1e7755b" />
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,vba,html,css,unity,unreal,godot,photoshop,blender,gcloud" />
@@ -20,7 +22,8 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ---
 
-## Projetos em Andamento
+<h2 align="center"><img width="400" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/0bcd4f46-4aa7-4b02-b7b1-a8296d748e6b" />
+</h2>
 
 <table align="center">
   <tr>
@@ -38,14 +41,16 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 ---
 
 
-## Contato
+<h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/481a45c9-cd6e-40b6-a7db-59758563f70e" />
+</h2>
 
 - 📧 Email: **mlopes.corporativo@gmail.com**
 - 🔗 LinkedIn [**Mateus Lopes**](https://www.linkedin.com/in/mateuslopesd)
 - 🏢 Membro da organização: [**Fixedge**](https://github.com/Fixedge)
 ---
 
-## Estatísticas
+<h2 align="center"><img width="200" height="200" alt="estatisticas" src="https://github.com/user-attachments/assets/516b4f3d-f40a-4580-8239-4ae5454c3371" />
+</h2>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=dark&hide_border=true&title_color=f09a07&icon_color=f09a07"/>
