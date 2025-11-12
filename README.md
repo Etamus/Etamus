@@ -148,16 +148,16 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 <table align="center">
   <tr>
     <td align="center" width="300px">
-      <b><img width="80px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/956c7403-01cf-41ae-970a-f4e6d8cf3f4d"/> </b><br>
-      <sub>mlopes.corporativo@gmail.com</sub>
+      <b><img width="80px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/956c7403-01cf-41ae-970a-f4e6d8cf3f4d"/></b><br>
+      <sub><a href="mailto:mlopes.corporativo@gmail.com">mlopes.corporativo@gmail.com</a></sub>
     </td>
     <td align="center" width="300px">
-      <b><img width="62px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/cf0b10b3-6487-4a43-9c1e-a215338e4611"/>  </b><br>
-      <sub>https://www.linkedin.com/in/mateuslopesd</sub>
+      <b><img width="62px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/cf0b10b3-6487-4a43-9c1e-a215338e4611"/></b><br>
+      <sub><a href="https://www.linkedin.com/in/mateuslopesd" target="_blank" rel="noopener noreferrer">LinkedIn</a></sub>
     </td>
     <td align="center" width="300px">
-      <b><img width="62px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/a4b91166-5a75-4e54-976a-ad9b39b2745f"/>  </b><br>
-      <sub>https://github.com/Fixedge</sub>
+      <b><img width="62px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/a4b91166-5a75-4e54-976a-ad9b39b2745f"/></b><br>
+      <sub><a href="https://github.com/Fixedge" target="_blank" rel="noopener noreferrer">Fixedge</a></sub>
     </td>
   </tr>
 </table>
