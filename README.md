@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=808080&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
+  <img width="9000" height="4000" alt="teste" src="https://github.com/user-attachments/assets/ee74dc85-303b-4b91-945d-b32b429008c3" />
+
+
 </h1>
 
 <div align="left" style="margin-left: 40px;">
