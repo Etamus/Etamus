@@ -32,17 +32,6 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ---
 
-## Dublagens Realizadas
-
-- 🎮 [**MiSide PT-BR**](https://www.nexusmods.com/miside/mods/551) — Mod de dublagem não oficial para o jogo *MiSide*.
-
-  **Características do projeto:**
-  - Dublagem completa do protagonista.
-  - Interpretação adaptada ao tom da história.
-  - Foco em acessibilidade e imersão para jogadores que preferem o idioma em português.
-    
----    
-
 ## Contato
 
 - 📧 Email: **mlopes.corporativo@gmail.com**
