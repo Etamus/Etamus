@@ -22,8 +22,18 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ## Projetos em Andamento
 
-- **Hub Spare Parts** — Servidor web projetado como um Hub para orquestrar e acessar diversas ferramentas de automação e Business Intelligence.
-- **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização.
+<table align="center">
+  <tr>
+    <td align="center" width="300px" height="150px">
+      <b>🔹 Hub Spare Parts</b><br>
+      <sub>Servidor web projetado como um Hub para orquestrar e acessar diversas ferramentas de automação e Business Intelligence.</sub>
+    </td>
+    <td align="center" width="300px">
+      <b>🔹 Lou</b><br>
+      <sub>Inteligência artificial com foco em interatividade natural e alto nível de personalização.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
