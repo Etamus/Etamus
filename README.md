@@ -149,7 +149,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
 
 <table align="center">
   <tr>
