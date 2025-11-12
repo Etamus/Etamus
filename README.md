@@ -29,10 +29,27 @@
 <br/>
 
 <p>
+
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+
   
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Inteligência Artificial**.
 
 Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma inteligência artificial projetada para diálogos naturais e interações contextuais profundas. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
+
+</p>
+
+<br/>
+
+<p>
+
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+
+
+I'm an independent developer and graphic designer, working both professionally and as a hobby. Former Computer Science student, I continue exploring the tech world with a strong focus on Artificial Intelligence.
+
+I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designed for natural dialogue and deep contextual interaction. I'm also part of [**Fixedge**](https://github.com/Fixedge), a collective where I exchange ideas and projects with other creators.
+
 
 </p>
 
@@ -76,6 +93,8 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 <p>
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+
 <table align="center">
   <tr>
     <td align="center" width="300px" height="150px">
@@ -85,6 +104,27 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
     <td align="center" width="300px">
       <b>🔹 LOU</b><br>
       <sub>Inteligência artificial com foco em interatividade natural e alto nível de personalização.</sub>
+    </td>
+  </tr>
+</table>
+
+</p>
+
+<br/>
+
+<p>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="300px" height="150px">
+      <b>🔹 HUB SPARE PARTS</b><br>
+      <sub>Web server designed as a hub to orchestrate and access various automation and Business Intelligence tools.</sub>
+    </td>
+    <td align="center" width="300px">
+      <b>🔹 LOU</b><br>
+      <sub>Artificial intelligence focused on natural interactivity and a high level of personalization.</sub>
     </td>
   </tr>
 </table>
@@ -109,6 +149,8 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 <p>
 
+&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+
 <table align="center">
   <tr>
     <td align="center" width="300px" height="150px">
@@ -122,6 +164,31 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
     <td align="center" width="300px">
       <b>🔹 DISCORD CLONE</b><br>
       <sub>Um clone de Discord full-stack React + Express pronto para produção, com TypeScript, TailwindCSS e rotas SPA.</sub>
+    </td>
+  </tr>
+</table>
+
+</p>
+
+<br/>
+
+<p>
+
+&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="300px" height="150px">
+      <b>🔹 RETURNS PORTAL</b><br>
+      <sub>Return portal developed to optimize the logistics process of parts return.</sub>
+    </td>
+    <td align="center" width="300px">
+      <b>🔹 YUMA</b><br>
+      <sub>AI with a modern Python interface, voice responses, customizable personality, and long-term memory.</sub>
+    </td>
+    <td align="center" width="300px">
+      <b>🔹 DISCORD CLONE</b><br>
+      <sub>A full-stack Discord clone built with React + Express, featuring TypeScript, TailwindCSS, and SPA routing, ready for production.</sub>
     </td>
   </tr>
 </table>
