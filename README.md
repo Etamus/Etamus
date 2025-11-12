@@ -99,6 +99,42 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ---
 
+<h2 align="center"><img width="300" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/6f1957fe-4fa3-4b49-8141-01f0404dd928" />
+
+</h2>
+
+</p>
+
+<br/>
+<br/>
+
+<p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300px" height="150px">
+      <b>🔹 RETURNS PORTAL</b><br>
+      <sub>Portal de Devolução desenvolvido para otimizar o processo logístico de retorno de peças.</sub>
+    </td>
+    <td align="center" width="300px">
+      <b>🔹 YUMA</b><br>
+      <sub>IA com interface moderna em Python, respostas por voz, personalidade customizável e memória a longo prazo.</sub>
+    </td>
+    <td align="center" width="300px">
+      <b>🔹 DISCORD CLONE</b><br>
+      <sub>Um clone de Discord full-stack React + Express pronto para produção, com TypeScript, TailwindCSS e rotas SPA.</sub>
+    </td>
+  </tr>
+</table>
+
+</p>
+
+<br/>
+<br/>
+
+<p>
+
+---
 
 <h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/481a45c9-cd6e-40b6-a7db-59758563f70e" />
 </h2>
