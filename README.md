@@ -1,8 +1,5 @@
 <h1 align="center">
-  <img width="9105" height="4168" alt="tesssasdsada" src="https://github.com/user-attachments/assets/6c44852e-4f5e-440b-ad67-d4fd81aede64" />
-
-
-
+  <img width="9105" height="4168" alt="dawdawdawdawdawawd" src="https://github.com/user-attachments/assets/468c93c2-9607-4a9a-8674-28a9a9c89d97" />
 
 </h1>
 
