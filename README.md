@@ -100,13 +100,9 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+</p>
 
 <table align="center">
   <tr>
@@ -127,13 +123,9 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+</p>
 
 <table align="center">
   <tr>
@@ -168,13 +160,9 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+</p>
 
 <table align="center">
   <tr>
@@ -199,13 +187,9 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+</p>
 
 <table align="center">
   <tr>
