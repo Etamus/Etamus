@@ -70,9 +70,16 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,vba,html,css,unity,unreal,godot,photoshop,blender,gcloud" />
-</div>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+    </td>
+    <td align="center">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,photoshop,blender"/>
+     </td>
+  </tr>
+</table>
 
 </p>
 
