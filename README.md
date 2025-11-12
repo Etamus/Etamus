@@ -93,7 +93,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
 
 <table align="center">
   <tr>
@@ -114,7 +114,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
 
 <table align="center">
   <tr>
@@ -174,7 +174,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-&emsp;&emsp;&emsp;<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
 
 <table align="center">
   <tr>
