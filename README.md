@@ -1,16 +1,12 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=16e0e0&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=808080&text=MATEUS%20LOPES&section=header&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Full%20Stack%20Developer&descAlignY=45&descSize=18" />
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16b4e0&center=true&vCenter=true&width=435&lines=AI+ENGINEER;GRAPHIC+DESIGNER;GAME+DEVELOPER;AMATEUR+VOICE+ACTOR" alt="Typing SVG" />
-</p>
 
 ---
 
 ## Sobre mim
 
-Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Python** e **Inteligência Artificial**.
+Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Inteligência Artificial**.
 
 Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma inteligência artificial projetada para diálogos naturais e interações contextuais profundas. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
 
@@ -28,7 +24,6 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 - **Hub Spare Parts** — Servidor web projetado como um Hub para orquestrar e acessar diversas ferramentas de automação e Business Intelligence.
 - **Lou** — Inteligência artificial com foco em interatividade natural e alto nível de personalização.
-- **Returns Portal** — Portal de Devolução desenvolvido para otimizar o processo logístico de retorno de peças.
 
 ---
 
@@ -49,15 +44,6 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 ---
 
-## Extras visuais
-
-
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Etamus&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16e0e0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
 </p>
