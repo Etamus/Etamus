@@ -80,10 +80,10 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,react"/>
     </td>
     <td align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,godot,photoshop,blender"/>
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender,photoshop"/>
      </td>
   </tr>
 </table>
