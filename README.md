@@ -31,7 +31,9 @@
 
 <p>
 
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+<p align="center">
+  <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+</p>
 
   
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Inteligência Artificial**.
@@ -44,7 +46,9 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 <p>
 
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+<p align="center">
+  <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+</p>
 
 
 I'm an independent developer and graphic designer, working both professionally and as a hobby. Former Computer Science student, I continue exploring the tech world with a strong focus on Artificial Intelligence.
