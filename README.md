@@ -182,8 +182,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
       <sub>IA com interface moderna em Python, respostas por voz, personalidade customizável e memória a longo prazo.</sub>
     </td>
     <td align="center" width="300px">
-      <b>🔹 DISCORD CLONE</b><br>
-      <sub>Um clone de Discord full-stack React + Express pronto para produção, com TypeScript, TailwindCSS e rotas SPA.</sub>
+      <b>🔹 FREIGHT AUTOMATION</b><br>
+      <sub>Automação de processos voltados para criação de transporte com interação em SAP ERP e uso de macros VBA.</sub>
     </td>
   </tr>
 </table>
@@ -209,8 +209,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
       <sub>AI with a modern Python interface, voice responses, customizable personality, and long-term memory.</sub>
     </td>
     <td align="center" width="300px">
-      <b>🔹 DISCORD CLONE</b><br>
-      <sub>A full-stack Discord clone built with React + Express, featuring TypeScript, TailwindCSS, and SPA routing, ready for production.</sub>
+      <b>🔹 FREIGHT AUTOMATION</b><br>
+      <sub>Process automation focused on creating transportation workflows with SAP ERP integration and VBA macros.</sub>
     </td>
   </tr>
 </table>
