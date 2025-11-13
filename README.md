@@ -65,7 +65,9 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="450" height="450" alt="tecefer" src="https://github.com/user-attachments/assets/d64e8a9d-293e-4241-ba0b-7f2bb1e7755b" />
+<h2 align="center">
+  <img width="450" height="450" alt="teste" src="https://github.com/user-attachments/assets/2632b4f0-6459-44e1-8c33-a333b1df0a25" />
+
 </h2>
 
 </p>
