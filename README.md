@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img width="2459" height="875" alt="teste3" src="https://github.com/user-attachments/assets/e07690e3-cea6-47b3-88ae-b68879459d07" />
+  <img width="1536" height="1024" alt="ChatGPT Image 20 de nov  de 2025, 16_39_25" src="https://github.com/user-attachments/assets/9bd21029-a09f-4c33-bcd8-1c584744fe69" />
+
 </h1>
 
 <div align="left" style="margin-left: 40px;">
