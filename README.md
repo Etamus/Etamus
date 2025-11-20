@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img width="911" height="417" alt="banner" src="https://github.com/user-attachments/assets/e87d6f1c-99c9-4c6d-8444-5660c2295098" />
-
+  <img width="2459" height="875" alt="teste3" src="https://github.com/user-attachments/assets/e07690e3-cea6-47b3-88ae-b68879459d07" />
 </h1>
 
 <div align="left" style="margin-left: 40px;">
