@@ -2,6 +2,13 @@
   <img width="1536" height="957" alt="Novo" src="https://github.com/user-attachments/assets/a6f34951-2eb4-404e-bf07-f293a9bb18f9" />
 </h1>
 
+</p>
+
+<br/>
+<br/>
+
+<p>
+
 <div align="left" style="margin-left: 40px;">
   <p align="center">
     <a href="mailto:mlopes.corporativo@gmail.com"><img width="53px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/956c7403-01cf-41ae-970a-f4e6d8cf3f4d"/></a>
