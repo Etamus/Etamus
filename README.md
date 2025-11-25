@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img width="2909" height="1120" alt="teste" src="https://github.com/user-attachments/assets/bdbed96e-64d2-4cf3-b419-e3b5535641d7" />
+  <img width="1536" height="1024" alt="d59ab01f-ce82-4b05-aa84-16ca7f1d3b89" src="https://github.com/user-attachments/assets/2a1fcdeb-6882-4265-9963-fbdcf276a00d" />
+
 </h1>
 
 <div align="left" style="margin-left: 40px;">
