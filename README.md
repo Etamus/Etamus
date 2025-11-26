@@ -20,7 +20,7 @@
   
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Inteligência Artificial**.
 
-Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma inteligência artificial projetada para diálogos naturais e interações contextuais profundas. Também faço parte da organização [**Fixedge**](https://github.com/Fixedge), onde troco ideias e projetos com outros criadores.
+Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma inteligência artificial projetada para diálogos naturais e interações contextuais profundas. Também faço parte da organização [**Fixaware**](https://github.com/Fixaware), onde troco ideias e projetos com outros criadores.
 
 </p>
 
@@ -228,7 +228,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
     </td>
     <td align="center" width="300px">
       <b><img width="62px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/a4b91166-5a75-4e54-976a-ad9b39b2745f"/></b><br>
-      <sub><a href="https://github.com/Fixedge" target="_blank" rel="noopener noreferrer">Fixedge</a></sub>
+      <sub><a href="https://github.com/Fixaware" target="_blank" rel="noopener noreferrer">Fixaware</a></sub>
     </td>
   </tr>
 </table>
