@@ -2,29 +2,6 @@
   <img width="1536" height="636" alt="teste" src="https://github.com/user-attachments/assets/8ff0e583-109e-47ae-876a-6e49770a5090" />
 </h1>
 
-</p>
-
-<br/>
-<br/>
-
-<p>
-
-<div align="left" style="margin-left: 40px;">
-  <p align="center">
-    <a href="mailto:mlopes.corporativo@gmail.com"><img width="53px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/956c7403-01cf-41ae-970a-f4e6d8cf3f4d"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/mateuslopesd"><img width="42px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/cf0b10b3-6487-4a43-9c1e-a215338e4611"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/Fixedge"><img width="42px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/a4b91166-5a75-4e54-976a-ad9b39b2745f"/></a>
-  </p>
-</div>
-
-<br/>
-
-<p>
-
----
-
 <h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/1bc0814b-f7fd-41db-81b0-014edb39c294" />
 </h2>
 
