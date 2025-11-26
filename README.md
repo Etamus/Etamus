@@ -96,7 +96,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 <table align="center">
   <tr>
     <td align="center" width="300px" height="150px">
-      <b>🔹 HUB SPARE PARTS</b><br>
+      <b>🔹 HUB DYNAMICS</b><br>
       <sub>Servidor web projetado como um Hub para orquestrar e acessar diversas ferramentas de automação e Business Intelligence.</sub>
     </td>
     <td align="center" width="300px">
@@ -119,7 +119,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 <table align="center">
   <tr>
     <td align="center" width="300px" height="150px">
-      <b>🔹 HUB SPARE PARTS</b><br>
+      <b>🔹 HUB DYNAMICS</b><br>
       <sub>Web server designed as a hub to orchestrate and access various automation and Business Intelligence tools.</sub>
     </td>
     <td align="center" width="300px">
