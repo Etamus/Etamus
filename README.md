@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img width="1536" height="636" alt="teste" src="https://github.com/user-attachments/assets/8ff0e583-109e-47ae-876a-6e49770a5090" />
+  <img width="1536" height="636" alt="teste" src="https://github.com/user-attachments/assets/e0d6f77e-e026-42c4-9628-98acafb8e150" />
 </h1>
 
-<h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/1bc0814b-f7fd-41db-81b0-014edb39c294" />
+<h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/f88251ab-f357-48e6-b216-5869e1dcc1f1" />
+
 </h2>
 
 
@@ -48,7 +49,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 ---
 
 <h2 align="center">
-  <img width="450" height="450" alt="teste" src="https://github.com/user-attachments/assets/2632b4f0-6459-44e1-8c33-a333b1df0a25" />
+  <img width="450" height="450" alt="teste" src="https://github.com/user-attachments/assets/dcf03dc8-b8c5-4408-8396-f704c89d5280" />
+
 
 </h2>
 
@@ -79,7 +81,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="400" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/0bcd4f46-4aa7-4b02-b7b1-a8296d748e6b" />
+<h2 align="center"><img width="400" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/c608d18f-d08e-495e-b709-a08d8ffc1440" />
+
 </h2>
 
 </p>
@@ -138,7 +141,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="300" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/6f1957fe-4fa3-4b49-8141-01f0404dd928" />
+<h2 align="center"><img width="300" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/4c2fbf37-7556-41d9-821f-2f5867e286e2" />
 
 </h2>
 
@@ -160,12 +163,12 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
       <sub>Portal de Devolução desenvolvido para otimizar o processo logístico de retorno de peças.</sub>
     </td>
     <td align="center" width="300px">
-      <b>🔹 YUMA</b><br>
-      <sub>IA com interface moderna em Python, respostas por voz, personalidade customizável e memória a longo prazo.</sub>
-    </td>
-    <td align="center" width="300px">
       <b>🔹 FREIGHT AUTOMATION</b><br>
       <sub>Automação de processos voltados para criação de transporte com interação em SAP ERP e uso de macros VBA.</sub>
+    </td>    
+    <td align="center" width="300px">
+      <b>🔹 YUMA</b><br>
+      <sub>IA com interface moderna em Python, respostas por voz, personalidade customizável e memória a longo prazo.</sub>
     </td>
   </tr>
 </table>
@@ -187,12 +190,12 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
       <sub>Return portal developed to optimize the logistics process of parts return.</sub>
     </td>
     <td align="center" width="300px">
-      <b>🔹 YUMA</b><br>
-      <sub>AI with a modern Python interface, voice responses, customizable personality, and long-term memory.</sub>
-    </td>
-    <td align="center" width="300px">
       <b>🔹 FREIGHT AUTOMATION</b><br>
       <sub>Process automation focused on creating transportation workflows with SAP ERP integration and VBA macros.</sub>
+    </td>    
+    <td align="center" width="300px">
+      <b>🔹 YUMA</b><br>
+      <sub>AI with a modern Python interface, voice responses, customizable personality, and long-term memory.</sub>
     </td>
   </tr>
 </table>
@@ -206,7 +209,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/481a45c9-cd6e-40b6-a7db-59758563f70e" />
+<h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/a93a68b2-1e45-45cd-9075-5dfb4fee23cf" />
+
 </h2>
 
 </p>
@@ -219,15 +223,11 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 <table align="center">
   <tr>
     <td align="center" width="300px">
-      <b><img width="80px" alt="Gmail" title="Gmail" src="https://github.com/user-attachments/assets/956c7403-01cf-41ae-970a-f4e6d8cf3f4d"/></b><br>
-      <sub><a href="mailto:mlopes.corporativo@gmail.com">mlopes.corporativo@gmail.com</a></sub>
-    </td>
-    <td align="center" width="300px">
-      <b><img width="62px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/cf0b10b3-6487-4a43-9c1e-a215338e4611"/></b><br>
+      <b><img width="62px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/853e6f1f-9ed3-44e9-bd76-e5132f52ce99"/></b><br>
       <sub><a href="https://www.linkedin.com/in/mateuslopesd" target="_blank" rel="noopener noreferrer">LinkedIn</a></sub>
     </td>
     <td align="center" width="300px">
-      <b><img width="62px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/a4b91166-5a75-4e54-976a-ad9b39b2745f"/></b><br>
+      <b><img width="62px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/37b17aeb-6cbf-4937-adc6-c3046a60f5c5"/></b><br>
       <sub><a href="https://github.com/Fixaware" target="_blank" rel="noopener noreferrer">Fixaware</a></sub>
     </td>
   </tr>
@@ -242,7 +242,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
   
 ---
 
-<h2 align="center"><img width="200" height="200" alt="estatisticas" src="https://github.com/user-attachments/assets/516b4f3d-f40a-4580-8239-4ae5454c3371" />
+<h2 align="center"><img width="200" height="200" alt="estatisticas" src="https://github.com/user-attachments/assets/f256dc91-9548-4a87-8390-3d32118707e8" />
 </h2>
 
 </p>
@@ -267,5 +267,5 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
 </p>
