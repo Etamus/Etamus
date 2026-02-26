@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img width="1536" height="636" alt="teste" src="https://github.com/user-attachments/assets/883fa1f0-b70b-4918-b511-083f1bc7b837" />
+  <img width="1536" height="636" alt="teste" src="https://github.com/user-attachments/assets/f2537ebf-44bd-450b-b8c1-037c2f019a1e" />
+
 </h1>
 
-<h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/f88251ab-f357-48e6-b216-5869e1dcc1f1" />
+<h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/464dd978-352c-46c9-bfcc-8d49690b0d0a" />
+
 
 </h2>
 
@@ -16,6 +18,7 @@
 
 <p align="center">
   <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+
 </p>
 
   
@@ -49,7 +52,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 ---
 
 <h2 align="center">
-  <img width="450" height="450" alt="teste" src="https://github.com/user-attachments/assets/dcf03dc8-b8c5-4408-8396-f704c89d5280" />
+  <img width="450" height="450" alt="teste" src="https://github.com/user-attachments/assets/ce8740f8-7ece-448b-9b97-c7ca346119f5" />
 
 
 </h2>
@@ -81,7 +84,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="400" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/c608d18f-d08e-495e-b709-a08d8ffc1440" />
+<h2 align="center"><img width="400" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/7b1f6fec-5047-49e7-a553-d7ab27d5b9eb" />
 
 </h2>
 
@@ -141,7 +144,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="300" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/4c2fbf37-7556-41d9-821f-2f5867e286e2" />
+<h2 align="center"><img width="300" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/7a98c8f2-0999-484e-b83c-a2c0f866a626" />
+
 
 </h2>
 
@@ -209,7 +213,8 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 ---
 
-<h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/a93a68b2-1e45-45cd-9075-5dfb4fee23cf" />
+<h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/7e6279aa-d9d8-4cfc-825a-23e92d83ae0f" />
+
 
 </h2>
 
@@ -242,7 +247,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
   
 ---
 
-<h2 align="center"><img width="200" height="200" alt="estatisticas" src="https://github.com/user-attachments/assets/f256dc91-9548-4a87-8390-3d32118707e8" />
+<h2 align="center"><img width="200" height="200" alt="estatisticas" src="https://github.com/user-attachments/assets/649f0b60-db48-4de3-95b7-1906fb112ef7" />
 </h2>
 
 </p>
@@ -253,8 +258,7 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 <p>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Etamus&show_icons=true&theme=dark&hide_border=true&title_color=f09a07&icon_color=f09a07"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etamus&layout=compact&theme=dark&hide_border=true&title_color=f09a07"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=etamus&theme=shadow-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 </p>
@@ -267,5 +271,5 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ebebeb&height=120&section=footer"/>
 </p>
