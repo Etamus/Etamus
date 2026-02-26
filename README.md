@@ -16,10 +16,16 @@
 
 <p>
 
-<p align="center">
-  <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
-
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+    </td>
+    <td>
+      PT-BR
+    </td>
+  </tr>
+</table>
 
   
 Sou um desenvolvedor independente e designer gráfico, atuando tanto por hobby quanto profissionalmente. Já fui estudante de Ciência da Computação e continuo explorando o universo da tecnologia com paixão, focando principalmente em **Inteligência Artificial**.
@@ -32,9 +38,16 @@ Atualmente estou desenvolvendo a **[Lou](https://github.com/Etamus/Lou)**, uma i
 
 <p>
 
-<p align="center">
-  <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="50" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+    </td>
+    <td style="font-size:20px;">
+      EN-US
+    </td>
+  </tr>
+</table>
 
 
 I'm an independent developer and graphic designer, working both professionally and as a hobby. Former Computer Science student, I continue exploring the tech world with a strong focus on Artificial Intelligence.
@@ -95,9 +108,16 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<p align="center">
-  <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+    </td>
+    <td>
+      PT-BR
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -118,9 +138,16 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<p align="center">
-  <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="50" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+    </td>
+    <td style="font-size:20px;">
+      EN-US
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -156,9 +183,16 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<p align="center">
-  <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="50" alt="PT-BR" src="https://github.com/user-attachments/assets/6d78e665-f264-4d79-9227-43f0f63103aa" />
+    </td>
+    <td>
+      PT-BR
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -183,9 +217,16 @@ I'm currently developing **[Lou](https://github.com/Etamus/Lou)**, an AI designe
 
 <p>
 
-<p align="center">
-  <img width="50" alt="image" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="50" src="https://github.com/user-attachments/assets/92a7bdda-a380-41c1-a7ce-7865b33f1893" />
+    </td>
+    <td style="font-size:20px;">
+      EN-US
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
