@@ -342,7 +342,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 </table>
 
 <div align="center">
-  <p><sub>📌 Interface e Acessibilidade: Front-end responsivo suportado por PWA (Progressive Web App) para uso mobile nativo, com suporte completo a renderização de Markdown, LaTeX e Internacionalização (i18n).</sub></p>
+  <p><sub> Interface e Acessibilidade: Front-end responsivo suportado por PWA (Progressive Web App) para uso mobile nativo, com suporte completo a renderização de Markdown, LaTeX e Internacionalização (i18n).</sub></p>
 </div>
 
 </div>
