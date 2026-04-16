@@ -496,9 +496,12 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 
 <p>
 
+---
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etamus/etamus/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/etamus/etamus/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/etamus/etamus/output/snake.svg">
 </picture>
+</div>
