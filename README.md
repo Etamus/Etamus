@@ -252,6 +252,8 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 
 </p>
 
+---
+
 <br/>
 
 <p>
@@ -345,6 +347,8 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 
 </div>
 <br>
+
+---
 
 <br>
 
