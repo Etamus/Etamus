@@ -263,12 +263,102 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
+      <h1>Neve UI</h1>
+      <sub>AI Orchestration & Deployment Platform</sub>
+    </td>
+    <td align="left">
+      <strong>Core Capacity:</strong><br>
+      Plataforma open-source self-hosted e extensível para orquestração de Inteligência Artificial. Projetada para operar em ambientes offline e cloud-native, integra motores de inferência locais (llama.cpp), oferecendo infraestrutura completa para RAG nativo, chamadas de função (Function Calling), multimodalidade e gestão de acessos em nível Enterprise.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<code>Deploy: Docker & K8s</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Auth: RBAC & SCIM 2.0</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Scale: Redis & WebSockets</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Metrics: OpenTelemetry</code>
+
+<br><br>
+
+### Arquitetura de Sistema e Capacidades Técnicas
+*Visão geral dos módulos de integração, engenharia de dados e segurança da plataforma.*
+
+<br>
+
+<table align="center" style="width:100%;" border="1">
+  <tr>
+    <th align="left" width="30%">Domínio da Arquitetura</th>
+    <th align="left" width="70%">Especificações e Tecnologias Suportadas</th>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Inteligência & Orquestração de Modelos</b></td>
+  </tr>
+  <tr>
+    <td>↳ Multi-Engine</td>
+    <td>Integração fluida entre modelos locais (llama.cpp). Suporte nativo a inferência simultânea (Many Models), permitindo execução paralela para otimização de respostas.</td>
+  </tr>
+  <tr>
+    <td>↳ Extensibilidade & Pipelines</td>
+    <td>Pipelines Plugin Framework para injeção de lógica customizada (rate limiting, filtros, Langfuse). Suporte a <i>Native Python Function Calling</i> (BYOF), permitindo execução de código e ferramentas diretamente pelo LLM.</td>
+  </tr>
+  <tr>
+    <td>↳ Processamento Multimodal</td>
+    <td>Integração de geração e edição de imagens (ComfyUI, AUTOMATIC1111).</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Engenharia de RAG & Armazenamento</b></td>
+  </tr>
+  <tr>
+    <td>↳ Vector & Knowledge Bases</td>
+    <td>Motor RAG nativo com suporte a 9+ Vector Databases (ChromaDB, PGVector, Qdrant, Milvus, etc.). Extração de conteúdo via Tika, Docling, Mistral OCR e Document Intelligence.</td>
+  </tr>
+  <tr>
+    <td>↳ Retrieval & Cloud Storage</td>
+    <td>Injeção de contexto em tempo real via 15+ provedores de Web Search (SearXNG, Tavily, Perplexity). Integração Cloud-Native para importação direta via Google Drive, OneDrive e SharePoint.</td>
+  </tr>
+  <tr>
+    <td>↳ Persistência de Artefatos</td>
+    <td>Armazenamento em SQLite (com criptografia) ou PostgreSQL, com suporte a backends de storage em nuvem (S3, GCS, Azure Blob). Key-value store interno para retenção de artefatos e histórico entre sessões.</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Infraestrutura Enterprise & Segurança</b></td>
+  </tr>
+  <tr>
+    <td>↳ Identidade & Controle de Acesso</td>
+    <td>Implementação estrita de RBAC com permissões granulares. Autenticação Enterprise via LDAP/AD, SSO (OAuth) e provisionamento automatizado de ciclo de vida de usuários via protocolo SCIM 2.0 (Okta, Azure AD).</td>
+  </tr>
+  <tr>
+    <td>↳ Escalabilidade Horizontal</td>
+    <td>Sessões gerenciadas via Redis e suporte a WebSockets, viabilizando deployments multi-node e multi-worker operando atrás de load balancers.</td>
+  </tr>
+  <tr>
+    <td>↳ Observabilidade (APM)</td>
+    <td>Suporte built-in a OpenTelemetry para exportação de traces, métricas e logs, garantindo monitoramento profundo integrado a stacks de observabilidade de produção.</td>
+  </tr>
+</table>
+
+<div align="center">
+  <p><sub>📌 Interface e Acessibilidade: Front-end responsivo suportado por PWA (Progressive Web App) para uso mobile nativo, com suporte completo a renderização de Markdown, LaTeX e Internacionalização (i18n).</sub></p>
+</div>
+
+</div>
+<br>
+
+<br>
+
+<div align="center">
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="30%">
       <h1>Hub Dynamics</h1>
       <sub>Enterprise Integration Platform</sub>
     </td>
     <td align="left">
       <strong>Core Capacity:</strong><br>
-      Um Hub Corporativo desenvolvido em Flask dedicado à centralização de automações críticas, dashboards analíticos, gestão de arquivos e orquestração de fluxos de acesso. A plataforma abstrai integrações complexas com SAP, BW HANA, macros Excel e relatórios Looker/Tableau através de uma interface responsiva única.
+      Um Hub Corporativo dedicado à centralização de automações críticas, dashboards analíticos, gestão de arquivos e orquestração de fluxos de acesso. A plataforma abstrai integrações complexas com SAP, BW HANA, macros Excel e relatórios Looker/Tableau através de uma interface responsiva única.
     </td>
   </tr>
 </table>
