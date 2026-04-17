@@ -3,7 +3,7 @@
 
 </h1>
 
-<h2 align="center"><img width="200" height="200" alt="sobre" src="https://github.com/user-attachments/assets/464dd978-352c-46c9-bfcc-8d49690b0d0a" />
+<h2 align="center"><img width="200" alt="sobre" src="https://github.com/user-attachments/assets/464dd978-352c-46c9-bfcc-8d49690b0d0a" />
 
 
 </h2>
@@ -62,7 +62,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 ---
 
 <h2 align="center">
-  <img width="450" height="450" alt="teste" src="https://github.com/user-attachments/assets/ce8740f8-7ece-448b-9b97-c7ca346119f5" />
+  <img width="450" alt="teste" src="https://github.com/user-attachments/assets/ce8740f8-7ece-448b-9b97-c7ca346119f5" />
 
 
 </h2>
@@ -112,7 +112,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 
 ---
 
-<h2 align="center"><img width="400" height="400" alt="projetoemand" src="https://github.com/user-attachments/assets/7b1f6fec-5047-49e7-a553-d7ab27d5b9eb" />
+<h2 align="center"><img width="400" alt="projetoemand" src="https://github.com/user-attachments/assets/7b1f6fec-5047-49e7-a553-d7ab27d5b9eb" />
 
 </h2>
 
@@ -350,7 +350,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 
 ---
 
-<h2 align="center"><img width="200" height="200" alt="estatisticas" src="https://github.com/user-attachments/assets/649f0b60-db48-4de3-95b7-1906fb112ef7" />
+<h2 align="center"><img width="200" alt="estatisticas" src="https://github.com/user-attachments/assets/649f0b60-db48-4de3-95b7-1906fb112ef7" />
 </h2>
 
 </p>
@@ -373,7 +373,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
   
 ---
 
-<h2 align="center"><img width="150" height="150" alt="contato" src="https://github.com/user-attachments/assets/7e6279aa-d9d8-4cfc-825a-23e92d83ae0f" />
+<h2 align="center"><img width="150" alt="contato" src="https://github.com/user-attachments/assets/7e6279aa-d9d8-4cfc-825a-23e92d83ae0f" />
 
 
 </h2>
