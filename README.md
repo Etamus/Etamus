@@ -265,7 +265,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <h1>Neve UI</h1>
+      <h1>Neve.AI</h1>
       <sub>AI Orchestration & Deployment Platform</sub>
     </td>
     <td align="left">
