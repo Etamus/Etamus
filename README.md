@@ -130,7 +130,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <h1>NEVE</h1>
+      <h1>Neve</h1>
       <sub>Model Version: 35B-A3B</sub>
     </td>
     <td align="left">
@@ -157,7 +157,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
     <th align="center" width="18%">Qwen3.5 27B</th>
     <th align="center" width="18%">Gemma4 31B</th>
     <th align="center" width="18%">Qwen3.5 35B</th>
-    <th align="center" width="18%">NEVE 35B<br><sup>(Meu Fine-Tune)</sup></th>
+    <th align="center" width="18%">Neve Strata 35B<br><sup>(Meu Fine-Tune)</sup></th>
   </tr>
 
   <tr>
