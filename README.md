@@ -339,12 +339,6 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
     <td>Suporte built-in a OpenTelemetry para exportação de traces, métricas e logs, garantindo monitoramento profundo integrado a stacks de observabilidade de produção.</td>
   </tr>
 </table>
-
-<div align="center">
-  <p><sub> Interface e Acessibilidade: Front-end responsivo suportado por PWA (Progressive Web App) para uso mobile nativo, com suporte completo a renderização de Markdown, LaTeX e Internacionalização (i18n).</sub></p>
-</div>
-
-</div>
 <br>
 
 ---
