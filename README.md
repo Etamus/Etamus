@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="1536" height="636" alt="bannerteste" src="https://github.com/user-attachments/assets/76c8f596-625a-48de-b9ef-f3d648607a15" />
+  <img width="1536" height="636" alt="bannerteste" src="https://github.com/user-attachments/assets/9b9734cf-5d07-483d-9156-42d2c6dfc8b7" />
 </h1>
 
 <h2 align="center"><img width="200" alt="sobre" src="https://github.com/user-attachments/assets/464dd978-352c-46c9-bfcc-8d49690b0d0a" />
