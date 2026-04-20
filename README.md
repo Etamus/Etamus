@@ -75,26 +75,32 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 
 <table align="center">
   <tr>
+    <table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="200"><strong>Frontend</strong></td>
+    <td align="center" width="200"><strong>Backend</strong></td>
+    <td align="center" width="200"><strong>DevOps</strong></td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
-      <b>Frontend</b><br><br>
       <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind&perline=3" />
     </td>
     <td align="center" width="33%">
-      <b>Backend</b><br><br>
       <img src="https://skillicons.dev/icons?i=python,nodejs,sqlite,pytorch,flask&perline=3" />
     </td>
     <td align="center" colspan="1">
-      <b>DevOps</b><br><br>
       <img src="https://skillicons.dev/icons?i=gcp,git" />
     </td>
+      <tr>
+    <td align="center" width="200" width="33%"><strong>Design</strong></td>
+    <td align="center" width="200" colspan="2"><strong>Gamedev</strong></td>
+  </tr>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <b>Design</b><br><br>
+    <td align="center" width="33%">
       <img src="https://skillicons.dev/icons?i=photoshop,blender" />
     </td>
-    <td align="center" width="33%">
-      <b>Gamedev</b><br><br>
+    <td align="center" width="33%"colspan="2">
       <img src="https://skillicons.dev/icons?i=unreal,unity,godot&perline=3" />
     </td>
   </tr>
