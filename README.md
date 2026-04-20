@@ -129,7 +129,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <img width="583" height="288" alt="dwawadwa" src="https://github.com/user-attachments/assets/a01f5686-26d0-4b76-9041-d5cddd0cb7d6" />
+      <img width="583" height="288" alt="testad" src="https://github.com/user-attachments/assets/91cb13eb-7a54-4b59-b604-87a22954999a" />
     </td>
     <td align="left">
       <strong>Descrição Técnica:</strong><br>
