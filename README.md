@@ -268,7 +268,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
       <img width="583" height="288" alt="tgeste" src="https://github.com/user-attachments/assets/2a8e87dd-c3c1-42b0-b215-d55150a4dc5f" />
     </td>
     <td align="left">
-      <strong>Core Capacity:</strong><br>
+      <strong>Descrição Técnica:</strong><br>
       Plataforma open-source self-hosted e extensível para orquestração de Inteligência Artificial. Projetada para operar em ambientes offline e cloud-native, integra motores de inferência locais (llama.cpp), oferecendo infraestrutura completa para RAG nativo, chamadas de função (Function Calling), multimodalidade e gestão de acessos em nível Enterprise.
     </td>
   </tr>
