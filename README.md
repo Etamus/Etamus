@@ -28,7 +28,7 @@
 
 Com um background consolidado em Ciência da Computação, atuo na intersecção entre o desenvolvimento de software e a engenharia de Machine Learning, com foco profundo no ecossistema de Large Language Models (LLMs). Minha especialidade cobre o ciclo completo de IA (end-to-end): desde a exploração de arquiteturas, técnicas de otimização e fine-tuning (PEFT, QLoRA), até a construção das aplicações e interfaces que conectam esses modelos aos usuários finais.
 
-Atualmente, lidero a engenharia e o desenvolvimento da **[Neve](https://github.com/Etamus/Lou_LLM)** — um modelo/agente conversacional otimizado para raciocínio multi-turn e alta retenção de contexto estendido. Em paralelo, sou contribuidor e pesquisador na organização [**Fixaware**](https://github.com/Fixaware), desenvolvendo infraestrutura e colaborando em projetos open-source voltados para o avanço da **Inteligência Artificial**.
+Atualmente, lidero a engenharia e o desenvolvimento da **[Neve AI](https://github.com/Etamus/Neve_AI)** — uma plataforma de IA local privacy-first para execução de LLM offline de alta performance, sem dependência de APIs ou serviços externos. Em paralelo, sou contribuidor e pesquisador na organização [**Fixaware**](https://github.com/Fixaware), desenvolvendo infraestrutura e colaborando em projetos open-source voltados para o avanço da **Inteligência Artificial**.
 
 </p>
 
@@ -49,7 +49,7 @@ Atualmente, lidero a engenharia e o desenvolvimento da **[Neve](https://github.c
 
 With a solid background in Computer Science, I operate at the intersection of software engineering and Machine Learning, focusing deeply on the Large Language Models (LLMs) ecosystem. My expertise covers the end-to-end AI lifecycle: from exploring architectures, optimization techniques, and fine-tuning (PEFT, QLoRA), to building the applications and interfaces that connect these models to end-users.
 
-Currently, I lead the engineering and development of **[Neve](https://github.com/Etamus/Lou_LLM)** — a conversational model/agent optimized for multi-turn reasoning and extended context retention. In parallel, I am a researcher and contributor at the [**Fixaware**](https://github.com/Fixaware) organization, developing infrastructure and collaborating on open-source projects aimed at advancing **Artificial Intelligence**.
+Currently, I lead the engineering and development of **[Neve AI](https://github.com/Etamus/Neve_AI)** — a privacy-first local AI platform for high-performance offline LLM execution, with no dependence on external APIs or services. In parallel, I am a researcher and contributor at the [**Fixaware**](https://github.com/Fixaware) organization, developing infrastructure and collaborating on open-source projects aimed at advancing **Artificial Intelligence**.
 
 </p>
 
@@ -129,8 +129,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <h1>Neve</h1>
-      <sub>Model Version: 35B-A3B</sub>
+      <img width="583" height="288" alt="dwawadwa" src="https://github.com/user-attachments/assets/a01f5686-26d0-4b76-9041-d5cddd0cb7d6" />
     </td>
     <td align="left">
       <strong>Descrição Técnica:</strong><br>
@@ -242,14 +241,11 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
   </tr>
 </table>
 
-<div align="center">
-  <p><sub>Metodologia: Avaliado via scaffold de agente interno; temp=1.0, top_p=0.95. Para detalhes de arquitetura e logs de treinamento, consulte os repositórios correspondentes.</sub></p>
-</div>
+<br><br>
 
-</div>
-<br>
+---
 
-</p>
+<img width="1600" height="948" alt="Teste" src="https://github.com/user-attachments/assets/e00a43a3-968c-41f7-9d56-7e86a6634384" />
 
 ---
 
@@ -264,8 +260,7 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <h1>Neve UI</h1>
-      <sub>AI Orchestration & Deployment Platform</sub>
+      <img width="583" height="288" alt="tgeste" src="https://github.com/user-attachments/assets/2a8e87dd-c3c1-42b0-b215-d55150a4dc5f" />
     </td>
     <td align="left">
       <strong>Core Capacity:</strong><br>
@@ -378,15 +373,21 @@ Currently, I lead the engineering and development of **[Neve](https://github.com
 
 <p>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td align="center" width="300px">
-      <b><img width="52px" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/1b05ff17-1057-4d84-b756-233ce7129c63"/></b><br>
-      <sub><a href="https://www.linkedin.com/in/mateuslopesd" target="_blank" rel="noopener noreferrer">LinkedIn</a></sub>
+    <td align="center" width="200"><strong>LinkedIn</strong></td>
+    <td align="center" width="200"><strong>Empresa</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/mateuslopesd" target="_blank" rel="noopener noreferrer">
+        <img width="50px" src="https://github.com/user-attachments/assets/1b05ff17-1057-4d84-b756-233ce7129c63"/>
+      </a>
     </td>
-    <td align="center" width="300px">
-      <b><img width="62px" alt="Fixedge" title="Fixedge" src="https://github.com/user-attachments/assets/f4317e45-f2b4-4286-b09e-b08ca04826ed"/></b><br>
-      <sub><a href="https://github.com/Fixaware" target="_blank" rel="noopener noreferrer">Fixaware</a></sub>
+    <td align="center" width="200">
+      <a href="https://github.com/Fixaware" target="_blank" rel="noopener noreferrer">
+        <img width="50px" src="https://github.com/user-attachments/assets/f4317e45-f2b4-4286-b09e-b08ca04826ed"/>
+      </a>
     </td>
   </tr>
 </table>
