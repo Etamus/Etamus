@@ -243,7 +243,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 
 <br/><br/>
 
-<img width="700" height="448" alt="Teste" src="https://github.com/user-attachments/assets/e00a43a3-968c-41f7-9d56-7e86a6634384" />
+<img width="700" height="448" alt="Testes" src="https://github.com/user-attachments/assets/430c3791-57a2-4fb3-ad47-77ffe0b88bd0" />
 
 <br/><br/>
 
