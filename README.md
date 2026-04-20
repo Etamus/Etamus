@@ -69,7 +69,6 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 </p>
 
 <br/>
-<br/>
 
 <p>
 
