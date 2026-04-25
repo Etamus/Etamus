@@ -28,7 +28,7 @@
 
 Com um background consolidado em Ciência da Computação, atuo na intersecção entre o desenvolvimento de software e a engenharia de Machine Learning, com foco profundo no ecossistema de Large Language Models (LLMs). Minha especialidade cobre o ciclo completo de IA (end-to-end): desde a exploração de arquiteturas, técnicas de otimização e fine-tuning (PEFT, QLoRA), até a construção das aplicações e interfaces que conectam esses modelos aos usuários finais.
 
-Atualmente, lidero a engenharia e o desenvolvimento da **[Neve AI](https://github.com/Etamus/Neve_AI)** — uma plataforma de IA local privacy-first para execução de LLM offline de alta performance, sem dependência de APIs ou serviços externos. Em paralelo, sou contribuidor e pesquisador na organização [**Fixaware**](https://github.com/Fixaware), desenvolvendo infraestrutura e colaborando em projetos open-source voltados para o avanço da **Inteligência Artificial**.
+Atualmente, lidero a engenharia e o desenvolvimento da **[Neve AI](https://github.com/Etamus/NeveAI)** — uma plataforma de IA local privacy-first para execução de LLM offline de alta performance, sem dependência de APIs ou serviços externos. Em paralelo, sou contribuidor e pesquisador na organização [**Fixaware**](https://github.com/Fixaware), desenvolvendo infraestrutura e colaborando em projetos open-source voltados para o avanço da **Inteligência Artificial**.
 
 </p>
 
@@ -49,7 +49,7 @@ Atualmente, lidero a engenharia e o desenvolvimento da **[Neve AI](https://githu
 
 With a solid background in Computer Science, I operate at the intersection of software engineering and Machine Learning, focusing deeply on the Large Language Models (LLMs) ecosystem. My expertise covers the end-to-end AI lifecycle: from exploring architectures, optimization techniques, and fine-tuning (PEFT, QLoRA), to building the applications and interfaces that connect these models to end-users.
 
-Currently, I lead the engineering and development of **[Neve AI](https://github.com/Etamus/Neve_AI)** — a privacy-first local AI platform for high-performance offline LLM execution, with no dependence on external APIs or services. In parallel, I am a researcher and contributor at the [**Fixaware**](https://github.com/Fixaware) organization, developing infrastructure and collaborating on open-source projects aimed at advancing **Artificial Intelligence**.
+Currently, I lead the engineering and development of **[Neve AI](https://github.com/Etamus/NeveAI)** — a privacy-first local AI platform for high-performance offline LLM execution, with no dependence on external APIs or services. In parallel, I am a researcher and contributor at the [**Fixaware**](https://github.com/Fixaware) organization, developing infrastructure and collaborating on open-source projects aimed at advancing **Artificial Intelligence**.
 
 </p>
 
