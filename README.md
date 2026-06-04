@@ -134,7 +134,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <img width="583" height="288" alt="testad" src="https://github.com/user-attachments/assets/91cb13eb-7a54-4b59-b604-87a22954999a" />
+      <img width="583" height="288" alt="BannerProfile2" src="https://github.com/user-attachments/assets/a71966cb-35bb-4b0b-be97-b39db18bd630" />
     </td>
     <td align="left">
       <strong>Descrição Técnica:</strong><br>
@@ -265,7 +265,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <img width="583" height="288" alt="tgeste" src="https://github.com/user-attachments/assets/2a8e87dd-c3c1-42b0-b215-d55150a4dc5f" />
+      <img width="583" height="288" alt="BannerProfile1" src="https://github.com/user-attachments/assets/89475275-bf32-4daf-8a5f-29427e541b24" />
     </td>
     <td align="left">
       <strong>Descrição Técnica:</strong><br>
