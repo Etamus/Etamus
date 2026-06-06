@@ -390,7 +390,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/Fixaware" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/NeveIA" target="_blank" rel="noopener noreferrer">
         <img width="50px" src="https://github.com/user-attachments/assets/f4317e45-f2b4-4286-b09e-b08ca04826ed"/>
       </a>
     </td>
