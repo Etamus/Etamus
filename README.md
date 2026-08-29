@@ -134,11 +134,11 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <img width="583" height="288" alt="BannerProfile2" src="https://github.com/user-attachments/assets/be8ee359-1420-4d09-9a78-d3d3a00b1f42" />
+      <img width="583" height="288" alt="strata" src="https://github.com/user-attachments/assets/4c05e7f7-7d85-445e-8011-3bd6feb34b98" />
     </td>
     <td align="left">
       <strong>Descrição Técnica:</strong><br>
-      Neve é um Large Language Model (LLM) de alta escala, especializado em fluxos de trabalho autonômos (Agentic Workflows) e raciocínio lógico profundo. Através de técnicas avançadas de fine-tuning como PEFT e QLoRA, o modelo foi otimizado para manter coerência em janelas de contexto estendidas e precisão em geração de código complexo.
+      Neve Strata é um Large Language Model (LLM) de alta escala, especializado em fluxos de trabalho autonômos (Agentic Workflows) e raciocínio lógico profundo. Através de técnicas avançadas de fine-tuning como PEFT e QLoRA, o modelo foi otimizado para manter coerência em janelas de contexto estendidas e precisão em geração de código complexo.
     </td>
   </tr>
 </table>
@@ -160,7 +160,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
     <th align="center" width="18%">Qwen3.5 27B</th>
     <th align="center" width="18%">Gemma4 31B</th>
     <th align="center" width="18%">Qwen3.5 35B</th>
-    <th align="center" width="18%">Neve Strata 35B<br><sup>(Meu Fine-Tune)</sup></th>
+    <th align="center" width="18%">NeveStrata 35B<br><sup>(Meu fine-tune)</sup></th>
   </tr>
 
   <tr>
@@ -248,7 +248,7 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 
 <br/><br/>
 
-<img width="700" height="448" alt="Testes" src="https://github.com/user-attachments/assets/430c3791-57a2-4fb3-ad47-77ffe0b88bd0" />
+<img width="1000" height="550" alt="testeneve" src="https://github.com/user-attachments/assets/429fc4ff-7570-42e3-857d-fdf430d126e8" />
 
 <br/><br/>
 
@@ -265,23 +265,24 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
 <table align="center" width="100%">
   <tr>
     <td align="center" width="30%">
-      <img width="583" height="288" alt="BannerProfile1" src="https://github.com/user-attachments/assets/bbdcb0c4-0267-44de-a031-438c3c5f6167" />
+      <img width="583" height="288" alt="nevai" src="https://github.com/user-attachments/assets/2b66c449-5e8f-4c1e-a50e-67d49638a6b2" />
     </td>
     <td align="left">
       <strong>Descrição Técnica:</strong><br>
-      Plataforma open-source self-hosted e extensível para orquestração de Inteligência Artificial. Projetada para operar em ambientes offline e cloud-native, integra motores de inferência locais (llama.cpp), oferecendo infraestrutura completa para RAG nativo, chamadas de função (Function Calling), multimodalidade e gestão de acessos em nível Enterprise.
+      NeveAI é uma plataforma de IA local privacy-first, desenvolvida para oferecer uma experiência de alta performance na execução de LLMs, reduzindo a dependência de grandes plataformas, assinaturas caras e APIs externas e servindo como uma alternativa offline, privada e independente.
     </td>
   </tr>
 </table>
 
 <br>
 
-<code>Deploy: Docker & K8s</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Auth: RBAC & SCIM 2.0</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Scale: Redis & WebSockets</code> &nbsp;&nbsp; | &nbsp;&nbsp; <code>Metrics: OpenTelemetry</code>
+<code>LLM: llama.cpp</code>    |    <code>Backend: FastAPI</code>    |    <code>Frontend: SvelteKit 2</code>    |    <code>RAG: ChromaDB</code>
 
 <br><br>
 
 ### Arquitetura de Sistema e Capacidades Técnicas
-*Visão geral dos módulos de integração, engenharia de dados e segurança da plataforma.*
+
+*Visão geral dos principais módulos de inferência local, processamento multimodal, recuperação de conhecimento e integração da plataforma.*
 
 <br>
 
@@ -292,54 +293,71 @@ Currently, I lead the engineering and development of **[Neve AI](https://github.
   </tr>
 
   <tr>
-    <td colspan="2"><b>Inteligência & Orquestração de Modelos</b></td>
+    <td colspan="2"><b>Inteligência & Inferência Local</b></td>
   </tr>
   <tr>
-    <td> Multi-Engine</td>
-    <td>Integração fluida entre modelos locais (llama.cpp). Suporte nativo a inferência simultânea (Many Models), permitindo execução paralela para otimização de respostas.</td>
+    <td> Motor de LLM</td>
+    <td>Inferência local baseada em llama.cpp, com carregamento dinâmico de modelos GGUF, streaming de respostas em tempo real via WebSocket e inicialização automática do servidor de inferência ao selecionar um modelo.</td>
   </tr>
   <tr>
-    <td> Extensibilidade & Pipelines</td>
-    <td>Pipelines Plugin Framework para injeção de lógica customizada (rate limiting, filtros, Langfuse). Suporte a <i>Native Python Function Calling</i> (BYOF), permitindo execução de código e ferramentas diretamente pelo LLM.</td>
+    <td> Raciocínio & Contexto</td>
+    <td>Modos de resposta configuráveis entre execução rápida e raciocínio, contador de tokens com indicação visual de uso de contexto e carregamento automático de modelos conforme a necessidade da conversa.</td>
   </tr>
   <tr>
     <td> Processamento Multimodal</td>
-    <td>Integração de geração e edição de imagens (ComfyUI, AUTOMATIC1111).</td>
+    <td>Suporte a modelos multimodais por projeções mmproj com detecção automática de compatibilidade. Entrada de PDFs, documentos, apresentações, planilhas, imagens, áudio, vídeo e arquivos de código.</td>
   </tr>
 
   <tr>
-    <td colspan="2"><b>Engenharia de RAG & Armazenamento</b></td>
+    <td colspan="2"><b>RAG, Conhecimento & Ferramentas</b></td>
   </tr>
   <tr>
-    <td> Vector & Knowledge Bases</td>
-    <td>Motor RAG nativo com suporte a 9+ Vector Databases (ChromaDB, PGVector, Qdrant, Milvus, etc.). Extração de conteúdo via Tika, Docling, Mistral OCR e Document Intelligence.</td>
+    <td> Retrieval-Augmented Generation</td>
+    <td>Motor RAG local utilizando ChromaDB, embeddings via sentence-transformers ou API e recuperação híbrida combinando busca semântica com BM25.</td>
   </tr>
   <tr>
-    <td> Retrieval & Cloud Storage</td>
-    <td>Injeção de contexto em tempo real via 15+ provedores de Web Search (SearXNG, Tavily, Perplexity). Integração Cloud-Native para importação direta via Google Drive, OneDrive e SharePoint.</td>
+    <td> Processamento de Documentos</td>
+    <td>Extração e indexação de conteúdo para bases de conhecimento, incluindo OCR de PDFs e imagens digitalizadas via RapidOCR.</td>
   </tr>
   <tr>
-    <td> Persistência de Artefatos</td>
-    <td>Armazenamento em SQLite (com criptografia) ou PostgreSQL, com suporte a backends de storage em nuvem (S3, GCS, Azure Blob). Key-value store interno para retenção de artefatos e histórico entre sessões.</td>
+    <td> Web, Código & MCP</td>
+    <td>Busca na web integrada via SearXNG sem necessidade de chave de API, execução de código Python no navegador através de Pyodide e suporte ao Model Context Protocol (MCP) v1.26 para integração com ferramentas externas.</td>
   </tr>
 
   <tr>
-    <td colspan="2"><b>Infraestrutura Enterprise & Segurança</b></td>
+    <td colspan="2"><b>Geração Multimídia & Experiência</b></td>
   </tr>
   <tr>
-    <td> Identidade & Controle de Acesso</td>
-    <td>Implementação estrita de RBAC com permissões granulares. Autenticação Enterprise via LDAP/AD, SSO (OAuth) e provisionamento automatizado de ciclo de vida de usuários via protocolo SCIM 2.0 (Okta, Azure AD).</td>
+    <td> Geração de Imagens</td>
+    <td>Geração local de imagens utilizando Neve-Image-Turbo em quantização Q4_0, com Encoder e stable-diffusion.cpp, otimizada para execução em 8 steps.</td>
   </tr>
   <tr>
-    <td> Escalabilidade Horizontal</td>
-    <td>Sessões gerenciadas via Redis e suporte a WebSockets, viabilizando deployments multi-node e multi-worker operando atrás de load balancers.</td>
+    <td> Geração de Música</td>
+    <td>Geração local de músicas através do Neve-Step 1.5 Turbo, com suporte a orientação de estilo e criação de letras em português.</td>
   </tr>
   <tr>
-    <td> Observabilidade (APM)</td>
-    <td>Suporte built-in a OpenTelemetry para exportação de traces, métricas e logs, garantindo monitoramento profundo integrado a stacks de observabilidade de produção.</td>
+    <td> Interface & Artefatos</td>
+    <td>Frontend desenvolvido em SvelteKit 2 e Svelte 5 com Tailwind CSS 4.2.1, incluindo histórico organizado em pastas, projetos, tema claro/escuro e painel dedicado para código, gráficos e HTML renderizado.</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><b>Runtime & Persistência Local</b></td>
+  </tr>
+  <tr>
+    <td> Backend & API</td>
+    <td>Backend baseado em FastAPI, Uvicorn e Python 3.11/3.12, responsável por chat, modelos, áudio, imagens, RAG, WebSockets e entrega do frontend compilado através da porta padrão 8080.</td>
+  </tr>
+  <tr>
+    <td> Persistência</td>
+    <td>Banco de dados local SQLite utilizando SQLAlchemy e Alembic, com armazenamento de dados de runtime, uploads, cache, histórico e base vetorial diretamente na instalação local.</td>
+  </tr>
+  <tr>
+    <td> Instalação & Hardware</td>
+    <td>Instalador automatizado para Windows com detecção de GPUs NVIDIA, AMD ou execução em CPU, seleção automática dos binários apropriados do llama.cpp, criação do ambiente Python e build completo do frontend.</td>
   </tr>
 </table>
 <br>
+
 
 ---
 
